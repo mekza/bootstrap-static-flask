@@ -10,6 +10,7 @@ Create 2 directories:
 - /static
 
 Run:
-  ./site.py
+
+  $ ./site.py
 
 PROFIT
