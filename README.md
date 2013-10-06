@@ -11,6 +11,6 @@ Create 2 directories:
 
 Run:
 
-  $ ./site.py
+    $ ./site.py
 
 PROFIT
